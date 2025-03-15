@@ -49,7 +49,14 @@ Step 5: Product Testing and Intergration:After the development of the product, t
 Step 6: Product deployement and Testing: At this stage, the final developed and tested product is released ro the real environment for actual use.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+ 1. Waterfall is a linear siquential approach where each phase must be completed first before proceeding to the next phase. Agile methology on the other end is an iterative and incremental approach which emphasizes flexibility, customer feedback and collaboration.
+ 2. In Waterfall methodology, customer involvement is only during the initial and end while in Agile, customer involvement is continuos throughout the SDLC.
+ 3. In Agile Methodology, testing of the product is done continuously in each stage while in waterfall, testing is only done at the end of the SDLC.
+ 4. The risks associated with Waterfall methodology is higher due to the testing phase being done only at the final stage as compared to Agile methodology due to continuose product testing.
+ 5. Both aim to deliver high-quality software.
+ 6. Both follow structured processes for planning, development, and testing.
+ 7. Both require collaboration between different teams (developers, testers, stakeholders).
+ 8. Both include project management principles to track progress.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
